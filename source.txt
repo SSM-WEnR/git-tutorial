@@ -8,3 +8,5 @@ print("Hello World")
 # Kevin added a new line on 2025-07-15
 print("Good afternoon")
 
+# New content added by Jan Peter on 2025-07-15
+print("Hello this is Jan Peter")
