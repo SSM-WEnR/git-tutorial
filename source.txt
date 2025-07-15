@@ -10,3 +10,6 @@ print("Good afternoon")
 
 # Kevin added a third line of code
 # print("New line")
+
+# New content added by Jan Peter on 2025-07-15
+print("Hello this is Jan Peter")
