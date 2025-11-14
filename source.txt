@@ -16,3 +16,6 @@ print("Hello this is Jan Peter")
 
 # New content added by Chantal on 14-11-2025
 print("hello Kevin")
+
+# Test merge conflict
+print("This should lead to a merge conflict")
