@@ -19,3 +19,7 @@ print("hello Kevin")
 
 # New content added by Chantal
 print("conflict!!")
+
+# Test merge conflict
+print("This should lead to a merge conflict")
+
